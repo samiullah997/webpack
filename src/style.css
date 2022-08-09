@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'MyFont';
+    src: url('./Nerik-normal.ttf') format('ttf');
+    font-weight: 600;
+    font-style: normal;
+  }
+
+body {
+    color: red;
+    font-family: 'MyFont';  
+    /* background: url('./icon.jpg'); */
+  }
